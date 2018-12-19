@@ -2,7 +2,7 @@ package s3url_test
 
 import (
 	// "net/url"
-	. "bitbucket.org/mexisme/get-secrets/files/s3/s3url"
+	. "github.com/mexisme/get-secrets/files/s3/s3url"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

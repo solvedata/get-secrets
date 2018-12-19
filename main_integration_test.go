@@ -2,7 +2,7 @@ package main_test
 
 import (
 	// TODO: Add this back when some tests are written:
-	// . "bitbucket.org/mexisme/get-secrets"
+	// . "github.com/mexisme/get-secrets"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
@@ -10,9 +10,9 @@ import (
 	"fmt"
 	"strings"
 
-	"bitbucket.org/mexisme/get-secrets/dotenv"
-	s3ish "bitbucket.org/mexisme/get-secrets/files/s3"
-	urlish "bitbucket.org/mexisme/get-secrets/files/s3/s3url"
+	"github.com/mexisme/get-secrets/dotenv"
+	s3ish "github.com/mexisme/get-secrets/files/s3"
+	urlish "github.com/mexisme/get-secrets/files/s3/s3url"
 
 	"github.com/mexisme/multiconfig"
 	"github.com/spf13/viper"

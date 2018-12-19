@@ -1,9 +1,9 @@
 package s3
 
 import (
-	"bitbucket.org/mexisme/get-secrets/config"
-	configAws "bitbucket.org/mexisme/get-secrets/config/aws"
 	"github.com/aws/aws-sdk-go/service/s3"
+	"github.com/mexisme/get-secrets/config"
+	configAws "github.com/mexisme/get-secrets/config/aws"
 	log "github.com/sirupsen/logrus"
 )
 

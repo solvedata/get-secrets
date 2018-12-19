@@ -1,9 +1,9 @@
 package dotenv
 
 import (
-	"bitbucket.org/mexisme/get-secrets/errors"
-	s3ish "bitbucket.org/mexisme/get-secrets/files/s3"
-	urlish "bitbucket.org/mexisme/get-secrets/files/s3/s3url"
+	"github.com/mexisme/get-secrets/errors"
+	s3ish "github.com/mexisme/get-secrets/files/s3"
+	urlish "github.com/mexisme/get-secrets/files/s3/s3url"
 
 	"github.com/mexisme/multiconfig"
 

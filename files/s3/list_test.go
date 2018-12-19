@@ -2,7 +2,7 @@ package s3_test
 
 import (
 	// TODO: Add this back when some tests are written:
-	// . "bitbucket.org/mexisme/get-secrets/files/s3"
+	// . "github.com/mexisme/get-secrets/files/s3"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"
