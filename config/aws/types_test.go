@@ -2,7 +2,7 @@ package aws_test
 
 import (
 	// TODO: Add this back when some tests are written:
-	// . "bitbucket.org/mexisme/get-secrets/config/aws"
+	// . "github.com/mexisme/get-secrets/config/aws"
 
 	. "github.com/onsi/ginkgo"
 	. "github.com/onsi/gomega"

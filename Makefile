@@ -1,4 +1,4 @@
-#PACKAGE  = bitbucket.org/mexisme/get-secrets
+#PACKAGE  = github.com/mexisme/get-secrets
 PACKAGE = $(shell test -f go.mod && head -1 go.mod |sed -e 's/^module *//')
 DATE    ?= $(shell date +%FT%T%z)
 VERSION ?= $(shell \

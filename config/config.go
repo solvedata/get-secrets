@@ -1,8 +1,8 @@
 package config
 
 import (
-	"bitbucket.org/mexisme/get-secrets/config/logging"
-	"bitbucket.org/mexisme/get-secrets/config/settings"
+	"github.com/mexisme/get-secrets/config/logging"
+	"github.com/mexisme/get-secrets/config/settings"
 )
 
 //nolint:gochecknoglobals

@@ -3,8 +3,8 @@ package logging
 import (
 	"time"
 
-	"bitbucket.org/mexisme/get-secrets/version"
 	"github.com/evalphobia/logrus_sentry"
+	"github.com/mexisme/get-secrets/version"
 	log "github.com/sirupsen/logrus"
 	"github.com/spf13/viper"
 )

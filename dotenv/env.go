@@ -1,7 +1,7 @@
 package dotenv
 
 import (
-	"bitbucket.org/mexisme/get-secrets/errors"
+	"github.com/mexisme/get-secrets/errors"
 
 	"github.com/mexisme/multiconfig"
 	"github.com/mexisme/multiconfig/env"

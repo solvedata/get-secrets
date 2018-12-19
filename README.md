@@ -146,7 +146,7 @@ make clean test all
     SECRETS_S3_DOTENV_PATH='s3://{BUCKET}/{PREFIX}' \
     APPLICATION_NAME=test -e ENVIRONMENT=envtest \
     SECRETS_DEBUG=1;
-  ./bin/bitbucket.org/mexisme/get-secrets
+  ./bin/github.com/mexisme/get-secrets
 )
 ```
 
